@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net11.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Models\Contact.fs" />
+    <Compile Include="Data\ContactRepo.fs" />
+    <Compile Include="Services\Validation.fs" />
+    <Compile Include="Services\AddContact.fs" />
+    <Compile Include="Services\SearchContact.fs" />
+    <Compile Include="Services\EditContact.fs" />
+    <Compile Include="Services\DeleteContact.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+</Project>

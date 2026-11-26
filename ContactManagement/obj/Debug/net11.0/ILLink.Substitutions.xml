@@ -1,0 +1,14 @@
+<linker>
+  <assembly fullname="ContactManagement">
+    <resource name="FSharpSignatureData.ContactManagement" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.ContactManagement" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.ContactManagement" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.ContactManagement" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.ContactManagement" action="remove"></resource>
+    <resource name="FSharpOptimizationData.ContactManagement" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.ContactManagement" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.ContactManagement" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.ContactManagement" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.ContactManagement" action="remove"></resource>
+  </assembly>
+</linker>

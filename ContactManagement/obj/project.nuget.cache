@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ivh1AnZDizg=",
+  "success": true,
+  "projectFilePath": "D:\\contact Management System\\contact-management-system\\ContactManagement\\ContactManagement.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LapTechnology\\.nuget\\packages\\fsharp.core\\11.0.101\\fsharp.core.11.0.101.nupkg.sha512"
+  ],
+  "logs": []
+}
